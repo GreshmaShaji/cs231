@@ -1,3 +1,6 @@
+          //GRESHMA SHAJI
+          //ROLL NO: 24
+
 #include <stdio.h>
 #define size 10
 int queue[size], front, rear;
