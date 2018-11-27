@@ -1,3 +1,6 @@
+          //GRESHMA SHAJI
+          //ROLL NO: 24
+
 #include <stdio.h>
 
 int queue[100], n=100, front=-1, rear=-1;
