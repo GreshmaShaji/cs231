@@ -1,3 +1,6 @@
+          //GRESHMA SHAJI
+          //ROLL NO:24
+
 #include<stdio.h>
 #include<conio.h>
 void main()
