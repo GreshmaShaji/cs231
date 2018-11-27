@@ -1,3 +1,6 @@
+          //GRESHMA SHAJI
+          /ROLL NO:24
+
 #include<stdio.h>
 int a[20];
 void merge_sort(int[],int,int);
