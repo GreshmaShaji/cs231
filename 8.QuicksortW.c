@@ -1,3 +1,6 @@
+        //GRESHMA SHAJI
+        //ROLL NO:24
+
 #include<stdio.h>
 void quicksort(int num[25],int first,int last)
 {
