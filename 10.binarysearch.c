@@ -34,3 +34,10 @@ main()
 		printf("\n Element not found");
 }
 }
+output:
+Enter size of array:2
+Enter array elements:2
+5
+Enter element to be searched:5
+
+ Element found at position: 2
