@@ -74,3 +74,30 @@ int main()
 
    return 0;
 }
+OUTPUT:
+	Enter the size of stack:3
+
+	1.PUSH
+	2.POP
+	3.DISPLAY
+	4.EXIT
+	 Enter the Choice:1
+	Enter a value to be pushed:4
+
+	 Enter the Choice:1
+	Enter a value to be pushed:5
+
+	 Enter the Choice:1
+	Enter a value to be pushed:6
+
+	 Enter the Choice:2
+
+	The popped element is 6
+	 Enter the Choice:3
+
+	The elements in stack
+
+	5
+	4
+	 Enter the Choice:
+	5
