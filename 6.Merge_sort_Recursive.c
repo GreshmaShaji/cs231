@@ -1,5 +1,5 @@
           //GRESHMA SHAJI
-          /ROLL NO:24
+          //ROLL NO:24
 
 #include<stdio.h>
 int a[20];
@@ -53,3 +53,12 @@ int main()
 	  a[i]=a1[i];
 
   }
+output:
+
+Enter the number of elements : 2
+Enter element 1 :3
+Enter element 2 :1
+Unsorted list is : 3 1 
+Size=1 
+Elements are : 1 3 Sorted list is :
+1 3
