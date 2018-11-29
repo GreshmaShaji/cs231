@@ -140,3 +140,31 @@ void main()
     	}
     	printf("0\n");
 }
+output:
+Polynomial 1 
+Enter coefficient: 2
+Enter exponent: 2 
+1. Add more elements
+2. Continue
+Enter choice: 1
+Enter coefficient: 3
+Enter exponent: 1
+1. Add more elements
+2. Continue
+Enter choice: 2
+polynomial 2 
+Enter coefficient: 2
+Enter exponent: 2
+1. Add more elements
+2. Continue
+Enter choice: 1
+Enter coefficient: 2
+Enter exponent: 1
+1. Add more elements
+2. Continue
+Enter choice: 2
+
+F(s) = F(a) + F(b)
+F(a) = 2X^2 + 3X^1 + 0
+F(b) = 2X^2 + 2X^1 + 0
+F(s) = 4X^2 + 5X^1 + 0
