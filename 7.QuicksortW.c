@@ -44,3 +44,12 @@ int main()
 		printf("%d",num[i]);
 	return 0;
 }
+output:
+
+Enter the number of elements : 2
+Enter element 1 :6
+Enter element 2 :3
+Unsorted list is : 6 3
+Size=1 
+Elements are : 3 6 Sorted list is :
+3 6
