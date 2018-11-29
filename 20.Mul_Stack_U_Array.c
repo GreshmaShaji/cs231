@@ -128,3 +128,82 @@ int main()
   }
   return 0;
 }
+
+    OUTPUT:
+
+
+    We can push a total of 50 values
+    1. push in stack 1
+    2. push in stack 2
+    3. pop from stack 1
+    4. pop from stack 2
+    5.display
+    6. exit
+    enter choice :1
+
+    enter data :4
+    1. push in stack 1
+    2. push in stack 2
+    3. pop from stack 1
+    4. pop from stack 2
+    5.display
+    6. exit
+    enter choice :1
+
+    enter data :4
+    1. push in stack 1
+    2. push in stack 2
+    3. pop from stack 1
+    4. pop from stack 2
+    5.display
+    6. exit
+    enter choice :2
+
+    enter data :5
+    1. push in stack 1
+    2. push in stack 2
+    3. pop from stack 1
+    4. pop from stack 2
+    5.display
+    6. exit
+    enter choice :2
+
+    enter data :6
+    1. push in stack 1
+    2. push in stack 2
+    3. pop from stack 1
+    4. pop from stack 2
+    5.display
+    6. exit
+    enter choice :5
+    stack 1:
+    4 4
+    stack 2:
+    5 6
+    1. push in stack 1
+    2. push in stack 2
+    3. pop from stack 1
+    4. pop from stack 2
+    5.display
+    6. exit
+    enter choice :3
+    0 is being popped from Stack 1
+    1. push in stack 1
+    2. push in stack 2
+    3. pop from stack 1
+    4. pop from stack 2
+    5.display
+    6. exit
+    enter choice :5
+    stack 1:
+    4
+    stack 2:
+    5 6
+    1. push in stack 1
+    2. push in stack 2
+    3. pop from stack 1
+    4. pop from stack 2
+    5.display
+    6. exit
+    enter choice :6
+              
