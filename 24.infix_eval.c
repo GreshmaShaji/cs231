@@ -88,5 +88,5 @@ int main() {
 }
   OUTPUT:
 
-  Enter the postfix expression : 123+*
-  5
+  Enter the infix expression:1+2*3
+  7
