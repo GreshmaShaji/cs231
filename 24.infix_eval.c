@@ -86,3 +86,7 @@ int main() {
   }
   printf("Final result : %d\n", operandStack[0]);
 }
+  OUTPUT:
+
+  Enter the postfix expression : 123+*
+  5
