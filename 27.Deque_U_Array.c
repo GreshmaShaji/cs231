@@ -101,3 +101,149 @@ int main() {
 		}
 	} while(choice != '6');
 }
+
+	OUTPUT:
+
+
+	    Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 1
+	Enter data to be inserted : 3
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 1
+	Failed: No space at front
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 4
+	Deleted element : 3
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 2
+	Enter data to be entered : 4
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 5
+	4
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 3
+	Deleted element : 4
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 5
+	Empty Queue
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 1
+	Enter data to be inserted : 5
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 2
+	Enter data to be entered : 5
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 2
+	Enter data to be entered : 6
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 5
+	5
+	5
+	6
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 4
+	Deleted element : 6
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 5
+	5
+	5
+
+		Queue using array
+	1.Enqueue Front
+	2.Enqueue Rear
+	3.Dequeue Front
+	4.Dequeue Rear
+	5.Display
+	6.Exit
+	Enter your choice : 6
+
