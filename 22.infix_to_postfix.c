@@ -104,3 +104,8 @@ void main()
     postfix(top_op,head_op);
     printf("%s",post);
 }
+  OUTPUT:
+
+
+  Enter the infix expression : A+B*c
+  ABc*+
