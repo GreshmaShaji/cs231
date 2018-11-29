@@ -104,3 +104,7 @@ void main()
     postfix(top_op,head_op);
     printf("%s",post);
 }
+  OUTPUT:
+
+  Enter the postfix expression : 123+*
+  5
