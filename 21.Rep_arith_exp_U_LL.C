@@ -70,3 +70,8 @@ int main() {
 	
 	return (0);
 }
+	OUTPUT:
+
+
+	Enter arithmatic expression : A+B+C
+	Entered experssion : A+B+C
