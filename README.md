@@ -1,12 +1,12 @@
 # cs231
-CS231 Data Structures Lab
+                            CS231 Data Structures Lab
 
-Set of Experiments (To be implemented in C )
+                             Set of Experiments (To be implemented in C )
 
 #
 Experiment
 01
-Sequential search
+   Sequential search
 02
 Selection sort
 03
